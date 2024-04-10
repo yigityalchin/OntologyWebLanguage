@@ -1,0 +1,27 @@
+DOWNLOAD PROTÉGÉ TUTORIAL
+http://owl.cs.manchester.ac.uk/tutorials/protegeowltutorial/resources/ProtegeOWLTutorialP4_v1_1.pdf
+
+DOWNLOADS TOOLS
+
+PELLET 230
+http://clarkparsia.com/pellet/download/pellet-2.3.0
+
+OWL API 343
+http://sourceforge.net/projects/owlapi/files/OWL%20API%20%28for%20OWL%202.0%29/3.4.3/owlapi343.zip/download
+
+PROTÉGÉ 4.2
+http://protege.stanford.edu/download/protege/4.2/installanywhere/Web_Installers/
+
+JDK LATEST VERSÝON 7u17
+http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html
+
+NETBEANS FULL NetBeans IDE 7.3 Download
+http://netbeans.org/downloads/ 
+
+ORNEK CLASSDIAGRAM
+
+http://mercury.webster.edu/aleshunas/Images/Bike%20Store%20ERD%20%28w-%20datatypes%29%20%2816%20dec%2005%29.jpg
+
+GeoNames Source Code 
+Java Client for GeoNames Webservices 
+http://www.geonames.org/source-code/ 
