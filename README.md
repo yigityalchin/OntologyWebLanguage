@@ -38,7 +38,7 @@ Are you excited to join the ECOLOPES journey? Here's how to jump in:
 We're all about teamwork and collaboration. Whether you're a researcher, developer, or passionate about our cause, we'd love to have you on board. Check out our CONTRIBUTING.md file to learn how you can get involved.
 
 # # # Would you like to reach out to us?
-Do you have questions or ideas, or want to say hi? Please email us at [contact@ecolopes.org](mailto:akif.cifci@tuwien.ac.at). We'd love to hear from you!
+Do you have questions or ideas, or want to say hi? Please email us at [akif.cifci@ecolopes.org](mailto:akif.cifci@tuwien.ac.at). We'd love to hear from you!
 
 ### Shoutout to Our Supporters
 A big shoutout to [funding agency/institution] for believing in our vision and making this project possible.
